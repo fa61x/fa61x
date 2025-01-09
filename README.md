@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa61x" alt="fa61x" /></a> </p>
 
-- 🌱 I’m currently learning **MERAN stack**
+- 🌱 I’m currently learning MERN Stack development 
 
 - 💬 Ask me about **react python django**
 
