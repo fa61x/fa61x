@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning MERN Stack development 
 
-- 💬 Ask me about **react python django**
+- 💬 Ask me about **react js python django**
 
 - 📫 How to reach me **farizahmed330@gmail.com**
 
